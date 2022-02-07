@@ -8,6 +8,7 @@
         "lib": [
             "dom",
             // "es2015"
+            // "es2018->2019" useAllUsers.tsのfinallyでエラーが出るが2019に変えて2018に戻すと直る
             "es2018"
         ],
         "jsx": "react-jsx"
